@@ -9,11 +9,11 @@
 
 ## Sobre mim
 
-Sou desenvolvedor full-stack com foco em back-end — gosto de construir coisas que funcionam de verdade, não só em demo.
+Sou desenvolvedor full-stack com foco em back-end gosto de construir coisas que funcionam de verdade, não só em demo.
 
 Comecei como QA, passei para dev em menos de 5 meses, e desde então trabalhei em sistemas que movem dinheiro de verdade: integração com Pix, Efi Bank, operações de crédito consignado e automação de fluxos bancários. Não é o tipo de ambiente onde dá para empurrar bug para produção e torcer para ninguém notar.
 
-Fora do trabalho, gosto de entender como as coisas funcionam por baixo — daí saem os projetos pessoais. Não construo só para ter no portfólio; construo para resolver algo que me incomoda.
+Fora do trabalho, gosto de entender como as coisas funcionam por baixo  daí saem os projetos pessoais. Não construo só para ter no portfólio; construo para resolver algo que me incomoda.
 
 **Stack principal:** Node.js, C#/.NET, Java, React, TypeScript — e SQL de verdade, não só o básico.
 
