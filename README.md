@@ -25,6 +25,8 @@ Em menos de 12 meses passei de QA a dev — construí integração end-to-end co
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaobarbosas&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![snake](https://raw.githubusercontent.com/joaobarbosas/joaobarbosas/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ## Projetos em destaque
@@ -55,10 +57,6 @@ Monitor de taxas de crédito do Banco Central do Brasil. Scraping com `C# + Play
 | | | |
 |---|---|---|
 | [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobarbosas&theme=dark)](https://github.com/joaobarbosas) | [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobarbosas&theme=dark)](https://github.com/joaobarbosas) | [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobarbosas&theme=dark)](https://github.com/joaobarbosas) |
-
-
-
-![snake](https://raw.githubusercontent.com/joaobarbosas/joaobarbosas/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
