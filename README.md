@@ -1,89 +1,90 @@
-<!-- Badges de status -->
-![STATUS](https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=linux&logoColor=white&color=black)
-![STACK](https://img.shields.io/badge/STACK-FULL--STACK-blue?style=for-the-badge&logoColor=white&color=black)
-![LOC](https://img.shields.io/badge/LOC-FLORIAN%C3%93POLIS_SC-blue?style=for-the-badge&color=black)
-![FOCO](https://img.shields.io/badge/FOCO-BACK--END_%26_INTEGRAÇÕES-critical?style=for-the-badge&logoColor=white&color=black)
-![MODE](https://img.shields.io/badge/MODE-OPEN_TO_WORK-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=black)
+<div align="center">
+
+# Hey, I'm João Pedro 👋
+
+### Software Developer · Backend Engineering · Automation
+
+Building practical software with **C#/.NET, Java, Node.js and SQL** — from backend features and integrations to automated workflows.
+
+[![Location](https://img.shields.io/badge/Based_in-Florian%C3%B3polis%2C_Brazil-111827?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/joaobarbosas)
+[![Focus](https://img.shields.io/badge/Focus-Backend_%26_Automation-2563EB?style=for-the-badge)](https://github.com/joaobarbosas)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/joaobarbosas)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaopedrosanchess)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrosanches370@gmail.com)
+
+</div>
 
 ---
 
-## Sobre mim
+## 👨‍💻 About me
 
-Sou desenvolvedor full-stack com foco em back-end gosto de construir coisas que funcionam de verdade, não só em demo.
+I'm a software developer based in Brazil with professional experience in **backend development, web automation, integrations and software testing**.
 
-Comecei como QA, passei para dev em menos de 5 meses, e desde então trabalhei em sistemas que movem dinheiro de verdade: integração com Pix, Efi Bank, operações de crédito consignado e automação de fluxos bancários. Não é o tipo de ambiente onde dá para empurrar bug para produção e torcer para ninguém notar.
+My work has included applications and workflows involving **C#/.NET, Java, Node.js, SQL, Playwright and Selenium**. I enjoy understanding existing systems, troubleshooting problems and building solutions that make repetitive processes more reliable.
 
-Fora do trabalho, gosto de entender como as coisas funcionam por baixo  daí saem os projetos pessoais. Não construo só para ter no portfólio; construo para resolver algo que me incomoda.
+I'm currently deepening my **Java fundamentals and Spring Boot** knowledge, with a focus on writing and testing code independently.
 
-**Stack principal:** Node.js, C#/.NET, Java, React, TypeScript — e SQL de verdade, não só o básico.
+## 🛠️ Technologies I've worked with
 
----
+**Languages & backend**
 
-## Foco no momento
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
 
-- **Back-end sólido** — APIs REST, arquitetura orientada a eventos, integração com serviços externos
-- **Front-end funcional** — React + TypeScript, sem over-engineering
-- **Automação** — se é repetitivo, vira código
-- Evoluindo o **BankRadar** — monitor de taxas do Banco Central com C#, Playwright e alertas por e-mail
+**Automation, testing & tools**
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaobarbosas&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![snake](https://raw.githubusercontent.com/joaobarbosas/joaobarbosas/output/github-contribution-grid-snake-dark.svg)
+<sub>These are technologies I've used or studied, not a claim of expert-level proficiency in each.</sub>
 
----
+## 🚀 Selected projects
 
-## Projetos em destaque
+### [BankRadar — Credit Rate Monitoring](https://github.com/joaobarbosas/BankRadar)
 
-[![BankRadar](https://img.shields.io/badge/BankRadar-repositório-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaobarbosas/BankRadar)
+A personal automation project that collects credit-rate information from Brazil's Central Bank using **C# and Playwright**, stores records with **MySQL and Dapper**, and supports email alerts.
 
-Monitor de taxas de crédito do Banco Central do Brasil. Scraping com `C# + Playwright`, persistência em `MySQL` via `Dapper`, e alertas por e-mail quando as taxas caem abaixo de um threshold configurável. Projeto real, rodando end-to-end.
+**Stack:** C# · .NET · Playwright · MySQL · Dapper
 
----
+### [Thoughts Manager — Web Application](https://github.com/joaobarbosas/toughts)
 
-## Stack
+A learning project for account registration, authentication and CRUD operations with **Node.js, Express and Handlebars**.
 
-**Back-end**
+**Stack:** Node.js · Express · Handlebars · SQL
 
-[![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+### [Java OOP Exercises](https://github.com/joaobarbosas/poo-desafio-iphone)
 
-**Front-end**
+Java object-oriented programming exercises and modeling practice.
 
-[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+**Stack:** Java · OOP
 
-**Banco de dados**
+## 📈 GitHub activity
 
-[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server/)
+<div align="center">
 
-**Infra & DevOps**
+[![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobarbosas&theme=github_dark)](https://github.com/joaobarbosas)
 
-[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Languages in repositories](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobarbosas&theme=github_dark)](https://github.com/joaobarbosas)
+[![GitHub statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobarbosas&theme=github_dark)](https://github.com/joaobarbosas)
+
+</div>
+
+> Repository language charts reflect public GitHub activity, not skill levels.
 
 ---
 
-## Stats
+<div align="center">
 
-| | | |
-|---|---|---|
-| [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobarbosas&theme=dark)](https://github.com/joaobarbosas) | [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobarbosas&theme=dark)](https://github.com/joaobarbosas) | [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobarbosas&theme=dark)](https://github.com/joaobarbosas) |
+### Let's connect
 
----
+[**LinkedIn**](https://linkedin.com/in/joaopedrosanchess) · [**Email**](mailto:joaopedrosanches370@gmail.com) · [**GitHub**](https://github.com/joaobarbosas)
 
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaopedrosanchess)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrosanches370@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaobarbosas)
+</div>
