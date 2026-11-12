@@ -97,6 +97,8 @@ Object-oriented programming practice based on a guided course project.
 
 ### 📚 Learning & practice
 
+[**Python Code Review Lab**](https://github.com/joaobarbosas/python-code-review-lab) — Learning project: a read-only Python syntax analysis CLI with JSON reports, pytest, Ruff and GitHub Actions. No target code is executed.
+
 [Java OOP modeling exercises](https://github.com/joaobarbosas/poo-desafio-iphone) · [More repositories](https://github.com/joaobarbosas?tab=repositories)
 
 > Selected projects include personal and educational work. Project descriptions do not imply production deployment or independently verified test coverage.
