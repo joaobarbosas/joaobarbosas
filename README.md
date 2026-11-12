@@ -48,23 +48,58 @@ I'm currently deepening my **Java fundamentals and Spring Boot** knowledge, with
 
 ## 🚀 Selected projects
 
-### [BankRadar — Credit Rate Monitoring](https://github.com/joaobarbosas/BankRadar)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A personal automation project that collects credit-rate information from Brazil's Central Bank using **C# and Playwright**, stores records with **MySQL and Dapper**, and supports email alerts.
+### [📊 BankRadar](https://github.com/joaobarbosas/BankRadar)
+**C# · .NET 10 · Playwright · MySQL · Dapper**
 
-**Stack:** C# · .NET · Playwright · MySQL · Dapper
+Personal project for collecting publicly available Brazilian credit-rate data, storing records and sending threshold-based email alerts.
 
-### [Thoughts Manager — Web Application](https://github.com/joaobarbosas/toughts)
+[**Explore repository →**](https://github.com/joaobarbosas/BankRadar)
 
-A learning project for account registration, authentication and CRUD operations with **Node.js, Express and Handlebars**.
+</td>
+<td width="50%" valign="top">
 
-**Stack:** Node.js · Express · Handlebars · SQL
+### [💭 Thoughts Manager](https://github.com/joaobarbosas/toughts)
+**Node.js · Express · Handlebars · MySQL**
 
-### [Java OOP Exercises](https://github.com/joaobarbosas/poo-desafio-iphone)
+Learning project with user accounts, server-rendered pages and CRUD operations.
 
-Java object-oriented programming exercises and modeling practice.
+[**Explore repository →**](https://github.com/joaobarbosas/toughts)
 
-**Stack:** Java · OOP
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🏄 SurfHouseWeb](https://github.com/joaobarbosas/SurfHouseWeb)
+**Next.js · TypeScript · Tailwind CSS · Framer Motion**
+
+Front-end landing page featuring a scroll-driven canvas animation and responsive layout.
+
+[**Explore repository →**](https://github.com/joaobarbosas/SurfHouseWeb)
+
+</td>
+<td width="50%" valign="top">
+
+### [♟️ C# Console Chess](https://github.com/joaobarbosas/xadrez-console-csharp)
+**C# · OOP · Console**
+
+Object-oriented programming practice based on a guided course project.
+
+[**Explore repository →**](https://github.com/joaobarbosas/xadrez-console-csharp)
+
+</td>
+</tr>
+</table>
+
+### 📚 Learning & practice
+
+[Java OOP modeling exercises](https://github.com/joaobarbosas/poo-desafio-iphone) · [More repositories](https://github.com/joaobarbosas?tab=repositories)
+
+> Selected projects include personal and educational work. Project descriptions do not imply production deployment or independently verified test coverage.
 
 ## 📈 GitHub activity
 
