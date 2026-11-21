@@ -1,127 +1,41 @@
-<div align="center">
+# João Pedro Sanches
 
-# Hey, I'm João Pedro 👋
+**Software Engineer | Backend & Full Stack Development**
 
-### Software Developer · Backend Engineering · Automation
+Based in Brazil · [LinkedIn](https://linkedin.com/in/joaopedrosanchess) · [Email](mailto:joaopedrosanches370@gmail.com)
 
-Building practical software with **C#/.NET, Java, Node.js and SQL** — from backend features and integrations to automated workflows.
+I build and maintain software for enterprise applications, with a focus on backend services, REST APIs, system integrations and end-to-end feature development.
 
-[![Location](https://img.shields.io/badge/Based_in-Florian%C3%B3polis%2C_Brazil-111827?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/joaobarbosas)
-[![Focus](https://img.shields.io/badge/Focus-Backend_%26_Automation-2563EB?style=for-the-badge)](https://github.com/joaobarbosas)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/joaobarbosas)
+Currently working with Astro 7 on B2B healthcare technology at Bionexo. My previous experience includes fintech systems, banking integrations, payment workflows and software automation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaopedrosanchess)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrosanches370@gmail.com)
+I'm pursuing a bachelor's degree in Information Systems at UNISUL and am interested in international remote opportunities and relocation to the Netherlands.
 
-</div>
+## Technical toolkit
 
----
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, Spring Boot, C#, .NET, ASP.NET Core, Node.js |
+| Frontend | React, Next.js, TypeScript, JavaScript |
+| Databases | Oracle, MySQL, PostgreSQL, SQL Server |
+| Integration | REST APIs, webhooks, internal and external system integrations |
+| Testing and delivery | Git, GitHub Actions, Playwright, Selenium, xUnit |
+| Cloud and tooling | Docker, AWS (ongoing hands-on learning) |
 
-## 👨‍💻 About me
+## Selected projects
 
-I'm a software developer based in Brazil with professional experience in **backend development, web automation, integrations and software testing**.
+| Project | What it demonstrates |
+| --- | --- |
+| [BankRadar](https://github.com/joaobarbosas/BankRadar) | C#/.NET, browser automation, MySQL and Dapper, threshold-based email alerts, 16 documented unit test cases |
+| [Python Code Review Lab](https://github.com/joaobarbosas/python-code-review-lab) | Read-only AST analysis CLI, structured JSON reports, 23 documented pytest cases, Ruff and CI configuration |
+| [Thoughts Manager](https://github.com/joaobarbosas/toughts) | Node.js, Express, MySQL, authentication, CRUD and ownership regression tests |
+| [SurfHouseWeb](https://github.com/joaobarbosas/SurfHouseWeb) | Next.js, TypeScript, responsive interfaces, scroll-driven canvas animation and browser regression tests |
 
-My work has included applications and workflows involving **C#/.NET, Java, Node.js, SQL, Playwright and Selenium**. I enjoy understanding existing systems, troubleshooting problems and building solutions that make repetitive processes more reliable.
+These are personal portfolio and learning projects, not commercial production deployments. Each repository documents its setup, scope and limitations.
 
-I'm currently deepening my **Java fundamentals and Spring Boot** knowledge, with a focus on writing and testing code independently.
+## Engineering interests
 
-## 🛠️ Technologies I've worked with
+- Backend services and enterprise system integration
+- Reliable software through automated testing and continuous integration
+- Java/Spring Boot and cloud-based application development
 
-**Languages & backend**
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
-
-**Automation, testing & tools**
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-<sub>These are technologies I've used or studied, not a claim of expert-level proficiency in each.</sub>
-
-## 🚀 Selected projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [📊 BankRadar](https://github.com/joaobarbosas/BankRadar)
-**C# · .NET 10 · Playwright · MySQL · Dapper**
-
-Personal project for collecting publicly available Brazilian credit-rate data, storing records and sending threshold-based email alerts.
-
-[**Explore repository →**](https://github.com/joaobarbosas/BankRadar)
-
-</td>
-<td width="50%" valign="top">
-
-### [💭 Thoughts Manager](https://github.com/joaobarbosas/toughts)
-**Node.js · Express · Handlebars · MySQL**
-
-Learning project with user accounts, server-rendered pages and CRUD operations.
-
-[**Explore repository →**](https://github.com/joaobarbosas/toughts)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🏄 SurfHouseWeb](https://github.com/joaobarbosas/SurfHouseWeb)
-**Next.js · TypeScript · Tailwind CSS · Framer Motion**
-
-Front-end landing page featuring a scroll-driven canvas animation and responsive layout.
-
-[**Explore repository →**](https://github.com/joaobarbosas/SurfHouseWeb)
-
-</td>
-<td width="50%" valign="top">
-
-### [♟️ C# Console Chess](https://github.com/joaobarbosas/xadrez-console-csharp)
-**C# · OOP · Console**
-
-Object-oriented programming practice based on a guided course project.
-
-[**Explore repository →**](https://github.com/joaobarbosas/xadrez-console-csharp)
-
-</td>
-</tr>
-</table>
-
-### 📚 Learning & practice
-
-[**Python Code Review Lab**](https://github.com/joaobarbosas/python-code-review-lab) — Learning project: a read-only Python syntax analysis CLI with JSON reports, pytest, Ruff and GitHub Actions. No target code is executed.
-
-[Java OOP modeling exercises](https://github.com/joaobarbosas/poo-desafio-iphone) · [More repositories](https://github.com/joaobarbosas?tab=repositories)
-
-> Selected projects include personal and educational work. Project descriptions do not imply production deployment or independently verified test coverage.
-
-## 📈 GitHub activity
-
-<div align="center">
-
-[![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaobarbosas&theme=github_dark)](https://github.com/joaobarbosas)
-
-[![Languages in repositories](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaobarbosas&theme=github_dark)](https://github.com/joaobarbosas)
-[![GitHub statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaobarbosas&theme=github_dark)](https://github.com/joaobarbosas)
-
-</div>
-
-> Repository language charts reflect public GitHub activity, not skill levels.
-
----
-
-<div align="center">
-
-### Let's connect
-
-[**LinkedIn**](https://linkedin.com/in/joaopedrosanchess) · [**Email**](mailto:joaopedrosanches370@gmail.com) · [**GitHub**](https://github.com/joaobarbosas)
-
-</div>
+[Browse all repositories](https://github.com/joaobarbosas?tab=repositories) · [Connect on LinkedIn](https://linkedin.com/in/joaopedrosanchess)
